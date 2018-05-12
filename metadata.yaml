@@ -1,0 +1,36 @@
+_repo: A-report-on-the-feasibility-and-advisability-of-some-policy-to-inaugurate-a-system-of-rifle-p__25662
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: National Board for the Promotion of Rifle Practice
+    gutenberg_agent_id: '31494'
+    url: http://www.gutenberg.org/2009/agents/31494
+  - agent_name: Wingate, George Wood
+    alias: Wingate, George W.
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '31492'
+    url: http://www.gutenberg.org/2009/agents/31492
+    wikipedia: http://en.wikipedia.org/wiki/George_Wood_Wingate
+  - agent_name: Critchfield, Ammon B.
+    gutenberg_agent_id: '31493'
+    url: http://www.gutenberg.org/2009/agents/31493
+description: ''
+gutenberg_issued: '2008-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25662'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rifle practice'
+- !lcsh 'Shooting -- Study and teaching'
+- !lcc 'GV'
+title: A report on the feasibility and advisability of some policy to inaugurate a
+  system of rifle practice throughout the public schools of the country
+url: http://www.gutenberg.org/ebooks/25662
